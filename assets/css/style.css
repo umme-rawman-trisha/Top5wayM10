@@ -274,7 +274,26 @@ i.fa.fa-paper-plane{
 
 }
 
+/*============= General FAQ ================*/
+.panel-heading {
+    padding-top: 3px !important;
+    padding-right: -19 !important;
+	padding-left: -19 !important;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
+}
 
+.panel-default>.panel-heading {
+    color: #333 !important;
+
+    border-color: #ddd !important;
+}
+
+div.panel-body{
+	border-top:2px solid !important;
+    border-color: #ffc31f !important;
+	padding-top:13px !important;
+    margin-right: 30px !important;
+}
 
 /*============= Quote ================*/
 #Quote{
