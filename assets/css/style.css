@@ -503,11 +503,15 @@ div.span4.FooterWidgetslinks ul li a{
     display: block;
     /*margin-right: 43% !important;*/
 
+    margin-bottom: 6px !important;
+
+
 }
 
 .nav-collapse .dropdown-menu a, .dropdown-menu li a {
 	
 	background: rgb( 0,0,0,50%) !important;
+
 
 }
 /*
@@ -529,6 +533,10 @@ div.span4.FooterWidgetslinks ul li a{
 	box-shadow: none !important;
 	margin-bottom : -50px !important;
 	margin-top : -10px !important;
+	
+
+    margin-bottom: 2px !important;
+
 
 }
 
@@ -619,6 +627,9 @@ div.text-center.footericon {
 .navbar .btn-navbar {
     display: block;
     margin-right: 44% !important;
+	
+    margin-bottom: 2px !important;
+
 
 }
 
