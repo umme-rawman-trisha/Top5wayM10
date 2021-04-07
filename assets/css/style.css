@@ -308,6 +308,7 @@ div.panel-body{
 #Quote .container{
 	background-color:#1a313c !important;
 	color:#f8f8f8;
+	width: 100% !important;
 	
 }
 
